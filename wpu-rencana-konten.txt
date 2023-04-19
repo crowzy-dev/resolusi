@@ -3,5 +3,6 @@ Rencana konten wpu
 - Javascript
   *ES 6
   *Framework javascript
+- Struktur data dasar
 - PHP Framework
 - Vlog
