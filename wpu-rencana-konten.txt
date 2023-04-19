@@ -1,5 +1,7 @@
 Rencana konten wpu
 
 - Javascript
+  *ES 6
+  *Framework javascript
 - PHP Framework
 - Vlog
