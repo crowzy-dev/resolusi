@@ -3,6 +3,9 @@ Rencana konten wpu
 - Javascript
   *ES 6
   *Framework javascript
+   - vue
 - Struktur data dasar
 - PHP Framework
+  - laravel
 - Vlog
+- Python
